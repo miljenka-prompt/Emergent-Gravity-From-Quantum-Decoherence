@@ -1,48 +1,69 @@
-# Emergent-Gravity-From-Quantum-Decoherence
 
-# Emergent Gravity from Quantum Decoherence  
-## A Resonant Vacuum Fluctuation Framework  
+# Emergent Gravitation from Quantum Decoherence and Resonant Vacuum Fluctuations  
+# Emergentna gravitacija iz kvantne dekoherencije i rezonantnih fluktuacija vakuuma  
 
-**Autor / Author:** Miljenka Ćurković  
+**Author/Autor**: Miljenka Ćurković  
+**Affiliation/Afilijacija**: Independent Researcher / Nezavisni istraživač  
+**Date/Datum**: August 16, 2025 / 16. kolovoza 2025.  
 
+## Abstract / Sažetak  
+We propose a mechanism whereby classical spacetime geometry emerges from quantum decoherence mediated by resonant fluctuations in the vacuum. The curvature of spacetime arises from the collective decoherence of superposed quantum states, modulated by stochastic fluctuations that may include contributions from the Higgs field.  
 
-## 🌍 Sažetak (hrvatski)
+Predlažemo mehanizam u kojem klasična geometrija prostor-vremena proizlazi iz kvantne dekoherencije posredovane rezonantnim fluktuacijama u vakuumu. Zakrivljenost prostor-vremena nastaje kolektivnom dekoherencijom superponiranih kvantnih stanja, moduliranih stohastičkim fluktuacijama koje mogu uključivati doprinose Higgsovog polja.  
 
-Ova hipoteza polazi od pitanja: ako sve fundamentalne sile imaju svoje kvante polja (fotoni, gluoni, bozioni slabih interakcija), zašto gravitacija nema potvrđen kvant (graviton)? Umjesto da je shvatimo kao fundamentalnu česticu, predlažem da gravitacija proizlazi iz **emergentnih rezonanci u vakuumskim fluktuacijama**.  
+**Testable predictions / Testabilna predviđanja**:  
+1. Frequency-dependent modulation of the effective gravitational constant near resonant transitions  
+   Frekvencijska modulacija efektivne gravitacijske konstante blizu rezonantnih prijelaza  
+2. Anomalous phase shifts in matter-wave interferometers correlated with decoherence  
+   Anomalni fazni pomaci u interferometrima materijalnih valova u korelaciji s dekoherencijom  
+3. Deviations from Newtonian gravity at scales where vacuum fluctuations dominate  
+   Devijacije od Newtonove gravitacije na skalama gdje dominiraju fluktuacije vakuuma  
 
-Ključna poveznica je s Higgsovim poljem, koje ima konstantnu vrijednost (246 GeV) i daje masu česticama. To sugerira da bi gravitacija mogla biti nuspojava interakcije mase i kvantnih rezonanci vakuuma, umjesto da je samostalna sila.  
+## 1. Introduction / Uvod  
+Despite their empirical success, quantum mechanics and general relativity remain fundamentally incompatible.  
 
-Drugim riječima – gravitacija možda nije "sila" u klasičnom smislu, nego **posljedica kolektivne koherencije i dekoherencije** kvantnih polja.  
+Unatoč empirijskom uspjehu, kvantna mehanika i opća teorija relativnosti ostaju temeljno nekompatibilne.  
 
+## 2. Open Quantum Dynamics of the Vacuum / Otvorena kvantna dinamika vakuuma  
+$$
+\dot{\rho} = -i [H_\phi, \rho] + \sum_\alpha \left( L_\alpha \rho L_\alpha^\dagger - \frac{1}{2} \{ L_\alpha^\dagger L_\alpha, \rho \} \right)
+$$
 
+## 3. Stochastic Gravity from Decoherence / Stohastička gravitacija iz dekoherencije  
+$$
+G_{\mu\nu}[g] + \Lambda g_{\mu\nu} = 8\pi G \left( \langle T_{\mu\nu} \rangle + \xi_{\mu\nu} \right)
+$$
 
-## 🌍 Abstract (English)
+## 4. Decoherence-Induced Spacetime Metric / Metrika prostor-vremena inducirana dekoherencijom  
+$$
+g_{\mu\nu}(x) = e^{2\alpha\mathcal{D}(x)} \eta_{\mu\nu}
+$$
 
-This hypothesis starts from a simple question: if all fundamental forces have field quanta (photons, gluons, W/Z bosons), why has no quantum of gravity (graviton) been confirmed? Instead of assuming gravity must be a particle, I propose that gravity **emerges from resonant patterns of vacuum fluctuations**.  
+## 5. Toy Model / Model za demonstraciju  
+$$
+\Gamma(x) \propto \langle \mathcal{O}_E^2 \rangle
+$$
 
-The key link is the Higgs field, with its constant vacuum expectation value (246 GeV), which gives particles their mass. This suggests gravity could be a **by-product of mass interacting with quantum vacuum resonances**, rather than a standalone force.  
+## 6. Experimental Signatures / Eksperimentalni potpisi  
+- **Resonant Gravity** / **Rezonantna gravitacija**  
+- **Interferometry** / **Interferometrija**  
+- **Casimir Anomalies** / **Casimirjeve anomalije**  
 
-In other words – gravity may not be a “force” in the classical sense, but a **consequence of collective quantum coherence and decoherence**.  
+## 7. Conclusions / Zaključci  
+Future work directions / Smjerovi budućeg istraživanja:  
+1. Refine Higgs field contributions to $J(\omega)$  
+   Poboljšati opis doprinosa Higgsovog polja u $J(\omega)$  
+2. Compute explicit $\mathcal{D}(x)$ for experimental systems  
+   Izračunati eksplicitne $\mathcal{D}(x)$ za eksperimentalne sustave  
+3. Explore holographic entropy bounds  
+   Istražiti holografske granice entropije  
 
+## License / Licenca  
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 
+Ovaj rad je licenciran pod [Creative Commons Attribution 4.0 International 
 
-## 📂 Struktura / Structure
+License](https://creativecommons.org/licenses/by/4.0/).  
+Contact:miljenka.qeit@proton.me
 
-- `popular_version_hr_en.md` → Popularno-znanstvena dvojezična verzija  
-- `technical_version_latex.tex` → Tehnička verzija (LaTeX kod)  
-- `technical_version_pdf.pdf` → Tehnička verzija (PDF)  
-- `prototypes/` → Softverski prototipovi i vizualizacije (uskoro)  
-
-
-
-## 🎯 Cilj / Purpose
-
-Cilj ovog repozitorija je:  
-- učiniti ideju dostupnom široj publici (popularno-znanstvena verzija),  
-- otvoriti prostor za znanstvenu diskusiju,  
-- ponuditi temelje za matematičko modeliranje i softverske prototipove.  
-
-
-## 📜 Licenca / License
-
-Ovaj rad je objavljen pod licencom **CC BY-NC 4.0** – slobodno se dijeli i koristi uz navođenje autorice, ali nije dozvoljena komercijalna upotreba.
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
