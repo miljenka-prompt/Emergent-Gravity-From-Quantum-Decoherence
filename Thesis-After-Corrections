@@ -1,0 +1,91 @@
+# Thesis After Corrections / Teza nakon korekcija
+
+## Introduction / Uvod
+
+This document presents the revised thesis on gravity as an emergent, low-energy effect, incorporating corrections suggested by a physicist to make the idea operational and testable. The corrections ensure universality, isotropy, and compatibility with experimental constraints.  
+
+Ovaj dokument predstavlja revidiranu tezu o gravitaciji kao emergentnom, niskoenergetskom efektu, uzimajući u obzir korekcije koje je predložio fizičar kako bi ideja bila operativna i testabilna. Korekcije osiguravaju univerzalnost, izotropnost i kompatibilnost s eksperimentalnim ograničenjima.
+
+
+## Key Assumptions / Ključne pretpostavke
+
+1. Gravity is an emergent phenomenon arising from vacuum fluctuations introducing microscopic, random metric noise.
+   
+   Gravitacija je emergentni fenomen koji proizlazi iz fluktuacija vakuuma, uvodeći mikroskopske, nasumične fluktuacije metrike.
+
+2. Effects must be universal: only depend on mass \(m\) and trajectory geometry \(\Delta x\), not material, chemistry, or polarizability.
+
+   Učinci moraju biti univerzalni: ovise samo o masi \(m\) i geometriji putanje \(\Delta x\), a ne o materijalu, kemiji ili polarizabilnosti.
+
+3. Background noise must be isotropic and have zero mean (\(\langle \phi \rangle = 0\)), respecting Lorentz invariance.
+
+   Pozadinska buka mora biti izotropna i imati nultu srednju vrijednost (\(\langle \phi \rangle = 0\)), u skladu s Lorentzovom invariancijom.
+
+4. Replace the concept of a frequency-dependent gravitational constant \(G(\omega)\) with a stochastic metric description \(S_\phi(\omega)\).
+
+   Zamijeniti koncept frekvencijski ovisite gravitacijske konstante \(G(\omega)\) stohastičkim opisom metrike \(S_\phi(\omega)\).
+
+
+## Corrected Thesis Statement / Revidirana teza
+
+The observable effect in interferometers scales as:
+
+\[
+\Delta \Phi \propto m^2 (\Delta x)^2 S_\phi(\omega)
+\]
+
+where:  
+- \(m\) is the particle mass / masa čestice  
+- \(\Delta x\) is the arm separation / udaljenost između “ruku” interferometra  
+- \(S_\phi(\omega)\) is the spectrum of universal gravitational phase noise / spektar univerzalne gravitacijske fazne buke
+
+Observable deviations from this scaling would falsify the model.  
+
+Učinci koji odstupaju od ovog skaliranja pobijaju model.
+
+
+## Intuition: Flags in the Wind / Intuicija: Zastavice na vjetru
+
+- Place two flags close (\(A\), \(\Delta x \sim 0.3\,\mathrm{m}\)) and two flags far apart (\(B\), \(\Delta x \sim 5\,\mathrm{m}\)).  
+- Observation: nearby flags move similarly; distant flags move more independently.  
+- Analogy: interferometer arms separated by \(\Delta x\) detect weak, correlated noise more sensitively when further apart.
+
+- Postavite dvije zastavice blizu (\(A\), \(\Delta x \sim 0.3\,\mathrm{m}\)) i dvije dalje (\(B\), \(\Delta x \sim 5\,\mathrm{m}\)).  
+- Promatranje: bliske zastavice se kreću slično; udaljene se kreću neovisnije.  
+- Analogija: ruke interferometra razdvojene \(\Delta x\) osjetljivije detektiraju slabu, koreliranu buku kada su dalje.
+
+
+## Proposed Experimental Test / Predloženi eksperimentalni test
+
+1. Use a matter-wave interferometer with two geometries (small \(\Delta x\), long time; large \(\Delta x\), short time).  
+2. Equalize classical decoherence (residual gas, light, vibrations) in both setups.  
+3. Measure phase difference \(\Delta \Phi\) and report as an upper bound on \(S_\phi(\omega)\).  
+4. Test different particle masses \(m\) to check \(m^2\) scaling.  
+
+1. Koristite interferometar s valovima tvari s dvije geometrije (mala \(\Delta x\), dugo vrijeme; velika \(\Delta x\), kratko vrijeme).  
+2. Izjednačite klasičnu dekoherenciju (ostatni plin, svjetlo, vibracije) u oba eksperimenta.  
+3. Mjerite faznu razliku \(\Delta \Phi\) i izvijestite kao gornju granicu za \(S_\phi(\omega)\).  
+4. Testirajte različite mase čestica \(m\) kako biste provjerili skaliranje \(m^2\).
+
+
+## Falsification Criteria / Kriteriji za odbacivanje
+
+- Any dependence on material or chemistry.  
+- Scaling not following \(m^2 (\Delta x)^2\) after classical noise correction.  
+- Required \(G(\omega)\) dispersion incompatible with astrophysical data.  
+
+- Bilo kakva ovisnost o materijalu ili kemiji.  
+- Skaliranje koje ne slijedi \(m^2 (\Delta x)^2\) nakon korekcije klasične buke.  
+- Potrebna disperzija \(G(\omega)\) nespojiva s astrofizičkim podacima.
+
+
+
+## References / Literatura
+
+1. Bassi, A., Lochan, K., Satin, S., Singh, T. P., & Ulbricht, H. (2013). Models of wave-function collapse, underlying theories, and experimental tests. *Rev. Mod. Phys.*, 85, 471–527.  
+2. Pikovski, I., Zych, M., Costa, F., & Brukner, Č. (2015). Universal decoherence due to gravitational time dilation. *Nature Physics*, 11, 668–672.  
+3. Milburn, G. J. (1991). Intrinsic decoherence in quantum mechanics. *Phys. Rev. A*, 44, 5401.  
+
+1. Bassi, A., Lochan, K., Satin, S., Singh, T. P., & Ulbricht, H. (2013). Modeli kolapsa valne funkcije, temeljne teorije i eksperimentalni testovi. *Rev. Mod. Phys.*, 85, 471–527.  
+2. Pikovski, I., Zych, M., Costa, F., & Brukner, Č. (2015). Univerzalna dekoherencija zbog gravitacijske dilatacije vremena. *Nature Physics*, 11, 668–672.  
+3. Milburn, G. J. (1991). Intrinzična dekoherencija u kvantnoj mehanici. *Phys. Rev. A*, 44, 5401.
