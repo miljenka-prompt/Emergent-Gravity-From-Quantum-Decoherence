@@ -1,0 +1,98 @@
+# Korekcije i eksperimentalni prijedlog  
+# Corrections and Experimental Proposal  
+
+
+
+## Hrvatski
+
+Ovaj dokument sažima ključne korekcije i prijedloge koje je fizičar dao u vezi teze o gravitaciji kao efektu dekoherencije. Naglasak je na univerzalnosti, očuvanju simetrija, pravilnom definiranju šuma i eksperimentalnoj provjerljivosti.
+
+### Što funkcionira u ideji
+- Gravitacija kao efekt **niskoenergetske efektivne (emergentne) teorije**.  
+- **Vakuumske fluktuacije** mogu uvoditi mikroskopski, nasumičan „šum metrike”.  
+- **Interferometrija materijalnih valova** je prirodno mjesto za traganje za univerzalnim faznim šumom gravitacijskog porijekla.  
+
+### Gdje verzija curi
+1. **Ekvivalencijsko načelo**  
+   Ako gravitacija „nastaje” iz dekoherencije, efekt mora biti univerzalan: ne smije ovisiti o kemiji, obliku ili polarizabilnosti, već samo o masi i geometriji putanje.  
+2. **Lorentzova invarijantnost (simetrija vakuuma)**  
+   Vakuum nema „vjetar” ni privilegirani smjer. Svaki model „vakuumske rezonancije” mora izgledati kao izotropan, skalarni šum nulte srednje vrijednosti.  
+3. **„Trčanje” gravitacijske konstante** \( G(\omega) \)  
+   Čak i minimalna ovisnost \( G \) o frekvenciji bila bi vidljiva u astrofizici, pulsarima i mjerenjima u Sunčevom sustavu. Razumnije je govoriti o spektru šuma gravitacijskog potencijala \( S_\phi(\omega) \).  
+4. **Higgs kao dekoherentno okruženje**  
+   Nije korisno u niskoenergetskim uvjetima: spregovi su zanemarivi, ekscitacije teške. Ova linija samo muti vodu.  
+
+### Kako popraviti u tri koraka
+- Zamijeniti \( G(\omega) \) opisom: **pozadinska metrika + mali, slučajni fluktuacijski dodaci** (\( \langle \delta g \rangle = 0 \), spektralna gustoća \( S_\phi(\omega) \)).  
+- Nametnuti univerzalnost: efekt u interferometrima mora skalirati s **masom** (\( \propto m^2 \)) i s kvadratom razmaka krakova (\( \propto (\Delta x)^2 \)), a ne s materijalom ili polarizabilnošću.  
+- Predložiti falsifikabilan test i brojčani ishod: gornju granicu na \( S_\phi(\omega) \) u navedenom frekvencijskom području.  
+
+### Intuitivni primjer: dvije zastavice
+- **Blizu (A):** zastavice 30 cm udaljene → gibaju se slično jer osjećaju isti nalet vjetra (šum je koreliran).  
+- **Daleko (B):** zastavice 5 m udaljene → gibaju se nezavisnije jer je korelacija šuma slabija.  
+➡ Razlika u korelaciji proporcionalna je razmaku, analogno interferometru gdje veći \(\Delta x\) daje veću osjetljivost na univerzalni šum.  
+
+### Laboratorijska provjera
+- **Interferometar materijalnih valova** s dvjema geometrijama:  
+  - A: manji \(\Delta x\), dulje vrijeme  
+  - B: veći \(\Delta x\), kraće vrijeme  
+- Parametri se biraju tako da **klasična dekoherencija** (plin, svjetlo, vibracije) priguši kontrast jednako u oba slučaja.  
+- Mjeri se razlika faze/dekoherencije između A i B → postavlja se granica na \( S_\phi(\omega) \).  
+- Provjerava se skaliranje sa \( m^2 \) i \((\Delta x)^2\).  
+- Optomehanička verzija: traženje mikroskopske sile koja skalira gravitacijski, razlikujući je od van der Waalsovih sila i naboja.  
+
+### Što bi srušilo model
+- Ovisnost efekta o materijalu/kemiji.  
+- Nedostatak skaliranja \( m^2 \), \((\Delta x)^2 \) nakon što su ujednačeni klasični izvori šuma.  
+- Potreban \( G(\omega) \) koji je u suprotnosti s astrofizičkim/mjeriteljskim podacima.  
+
+
+## English
+
+This document summarizes the key corrections and proposals made by the physicist regarding the thesis on gravity as an effect of decoherence. Emphasis is placed on universality, symmetry preservation, correct definition of noise, and experimental falsifiability.
+
+### What works in the idea
+- Gravity as a **low-energy effective (emergent) theory**.  
+- **Vacuum fluctuations** can introduce microscopic, random “metric noise”.  
+- **Matter-wave interferometry** is a natural hunting ground for universal gravitational phase noise.  
+
+### Where the draft leaks
+1. **Equivalence principle**  
+   Gravity must be universal: depending only on mass and path geometry, not on chemistry or shape.  
+2. **Lorentz invariance**  
+   The vacuum has no wind or privileged direction. A model must appear as isotropic scalar noise with zero mean.  
+3. **“Running” gravitational constant** \( G(\omega) \)  
+   Even tiny frequency-dependence would already be excluded by astrophysical and Solar-System data. Better to speak of a spectrum \( S_\phi(\omega) \).  
+4. **Higgs as decohering environment**  
+   Not effective at low energy; negligible couplings. This confuses the picture.  
+
+### Three-step fix
+- Replace \( G(\omega) \) with **background metric + random fluctuations** (\( \langle \delta g \rangle = 0 \), spectral density \( S_\phi(\omega) \)).  
+- Enforce universality: predicted interferometer effect scales as \( m^2 \) and \((\Delta x)^2\).  
+- Propose one falsifiable test: an upper bound on \( S_\phi(\omega) \).  
+
+### Intuitive example: two flags
+- **Close (A):** 30 cm apart → move similarly (noise correlated).  
+- **Far (B):** 5 m apart → move more independently (weaker correlation).  
+➡ Greater separation = greater sensitivity to universal noise.  
+
+### Laboratory test
+- **Matter-wave interferometer** with two geometries:  
+  - A: smaller \(\Delta x\), longer time  
+  - B: larger \(\Delta x\), shorter time  
+- Equalize ordinary decoherence.  
+- Measure differential phase → bound \( S_\phi(\omega) \).  
+- Check scaling with \( m^2 \) and \((\Delta x)^2\).  
+- Optomechanics: search for microscopic force noise scaling gravitationally.  
+
+### What falsifies the model
+- Any dependence on sample material/chemistry.  
+- Lack of scaling with \( m^2 \), \((\Delta x)^2\).  
+- Frequency dispersion of \( G(\omega) \) inconsistent with astrophysical/metrological data.  
+
+
+## Literatura / References
+- Bassi, A., Lochan, K., Satin, S., Singh, T. P., Ulbricht, H. (2013). *Models of wave-function collapse, underlying theories, and experimental tests.* Rev. Mod. Phys. 85, 471.  
+- Pikovski, I., Vanner, M. R., Aspelmeyer, M., Kim, M. S., Brukner, Č. (2012). *Probing Planck-scale physics with quantum optics.* Nature Physics 8, 393–397.  
+- Adler, S. L. (2007). *Quantum theory as an emergent phenomenon.* Cambridge University Press.  
+- Aspelmeyer, M., Kippenberg, T. J., Marquardt, F. (2014). *Cavity optomechanics.* Rev. Mod. Phys. 86, 1391.
