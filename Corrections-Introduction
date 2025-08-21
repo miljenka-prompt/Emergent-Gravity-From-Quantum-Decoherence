@@ -1,0 +1,53 @@
+# Uvod / Introduction
+
+Ovaj dokument predstavlja **preambulu** za projekt emergentne gravitacije i pripremu eksperimenata.  
+Služi kao kontekst za detaljne matematičke korekcije i formalne testove prikazane u `korekcije.md`.  
+
+This document serves as a **preamble** for the emergent gravity project and experimental preparation.  
+It provides context for the detailed mathematical corrections and formal tests shown in `korekcije.md`.
+
+
+## Konceptualni okvir / Conceptual Framework
+
+Hipoteza razmatra gravitacijske učinke kao **emergentni fenomen** stohastičkih fluktuacija vakuumskog potencijala \( \Phi \).  
+Fokus je na operativnom pristupu: kako mjerenja u interferometrima mogu kvantitativno ograničiti teoriju.  
+
+The hypothesis considers gravitational effects as an **emergent phenomenon** of stochastic vacuum potential fluctuations \( \Phi \).  
+The focus is operational: how interferometer measurements can quantitatively constrain the theory.
+
+
+
+## Ključne varijable i parametri / Key Variables and Parameters
+
+- \( m \) — masa testnog objekta / mass of the test object  
+- \( \Delta x \) — razmak između "ruku" interferometra / separation of interferometer arms  
+- \( T \) — vrijeme interferencijskog eksperimenta / interferometer time  
+- \( S_\Phi(\omega) \) — spektralna gustoća stohastičkog potencijala / spectral density of stochastic potential  
+- \( \Psi \) — fazna superpozicija kvantnog stanja / phase superposition of the quantum state  
+
+
+## Predikcije i ciljevi / Predictions and Objectives
+
+1. Predstaviti **temeljne ideje i predikcije** hipoteze:  
+   - Interferometrijski fazni šum trebao bi skalirati s \( m^2 \) i \( (\Delta x)^2 \).  
+   - Efekt mora biti univerzalan: ne smije ovisiti o kemijskom sastavu ili polarizabilnosti.  
+
+   Present the **core ideas and predictions** of the hypothesis:  
+   - Interferometric phase noise should scale as \( m^2 \) and \( (\Delta x)^2 \).  
+   - The effect must be universal: independent of chemical composition or polarizability.
+
+2. Uvesti ključne varijable i eksperimentalne parametre (\( m \), \( \Delta x \), \( T \)).  
+   Introduce key variables and experimental parameters (\( m \), \( \Delta x \), \( T \)).
+
+3. Osigurati konzistentan jezik i notaciju za daljnje korekcije i formule.  
+   Ensure a consistent language and notation for further corrections and formulas.
+
+
+
+## Poveznica / Link to `korekcije.md`
+
+Sve detaljne jednadžbe, predikcije i literaturu nalazi se u datoteci:
+
+All detailed equations, predictions, and references can be found in the file:
+
+[`korekcije.md`](./korekcije.md)
