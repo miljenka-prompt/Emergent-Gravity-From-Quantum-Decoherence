@@ -1,28 +1,24 @@
-# Thesis After Corrections / Teza nakon korekcija
+# Emergent Gravity — Revised Thesis (Scientific Core)
 
 ## Introduction / Uvod
 
-This document presents the revised thesis on gravity as an emergent, low-energy effect, incorporating corrections suggested by a physicist to make the idea operational and testable. The corrections ensure universality, isotropy, and compatibility with experimental constraints.  
+This document presents a revised thesis on gravity as an emergent, low-energy effect, incorporating corrections suggested by a physicist to make the idea operational and testable. The corrections ensure universality, isotropy, and compatibility with experimental constraints.  
 
 Ovaj dokument predstavlja revidiranu tezu o gravitaciji kao emergentnom, niskoenergetskom efektu, uzimajući u obzir korekcije koje je predložio fizičar kako bi ideja bila operativna i testabilna. Korekcije osiguravaju univerzalnost, izotropnost i kompatibilnost s eksperimentalnim ograničenjima.
 
 
 ## Key Assumptions / Ključne pretpostavke
 
-1. Gravity is an emergent phenomenon arising from vacuum fluctuations introducing microscopic, random metric noise.
-   
+1. Gravity is an emergent phenomenon arising from vacuum fluctuations introducing microscopic, random metric noise.  
    Gravitacija je emergentni fenomen koji proizlazi iz fluktuacija vakuuma, uvodeći mikroskopske, nasumične fluktuacije metrike.
 
-2. Effects must be universal: only depend on mass \(m\) and trajectory geometry \(\Delta x\), not material, chemistry, or polarizability.
-
+2. Effects must be universal: only depend on mass \(m\) and trajectory geometry \(\Delta x\), not material, chemistry, or polarizability.  
    Učinci moraju biti univerzalni: ovise samo o masi \(m\) i geometriji putanje \(\Delta x\), a ne o materijalu, kemiji ili polarizabilnosti.
 
-3. Background noise must be isotropic and have zero mean (\(\langle \phi \rangle = 0\)), respecting Lorentz invariance.
-
+3. Background noise must be isotropic and have zero mean (\(\langle \phi \rangle = 0\)), respecting Lorentz invariance.  
    Pozadinska buka mora biti izotropna i imati nultu srednju vrijednost (\(\langle \phi \rangle = 0\)), u skladu s Lorentzovom invariancijom.
 
-4. Replace the concept of a frequency-dependent gravitational constant \(G(\omega)\) with a stochastic metric description \(S_\phi(\omega)\).
-
+4. Replace the concept of a frequency-dependent gravitational constant \(G(\omega)\) with a stochastic metric description \(S_\phi(\omega)\).  
    Zamijeniti koncept frekvencijski ovisite gravitacijske konstante \(G(\omega)\) stohastičkim opisom metrike \(S_\phi(\omega)\).
 
 
@@ -40,38 +36,8 @@ where:
 - \(S_\phi(\omega)\) is the spectrum of universal gravitational phase noise / spektar univerzalne gravitacijske fazne buke
 
 Observable deviations from this scaling would falsify the model.  
-
 Učinci koji odstupaju od ovog skaliranja pobijaju model.
 
-## Emergence as Collective Coherence / Emergencija kao kolektivna koherencija  
-
-We propose an additional interpretative layer:  
-
-\[
-G_{\text{emergent}} = \langle \Psi | \hat{R} | \Psi \rangle
-\]
-
-where \(|\Psi\rangle\) encodes the relational state between systems and \(\hat{R}\) represents an operator of **relational resonance** rather than static distance.  
-
-Thus, gravity emerges from **the interference of relational wave functions**, rather than from a static geometric law.  
-
-This additional layer is fully compatible with the corrected thesis: the experimentally testable prediction remains unchanged  
-(\(\Delta \Phi \propto m^2 (\Delta x)^2 S_\phi(\omega)\)),  
-but the **conceptual interpretation** shifts — gravity is the *collective effect of amplitude coherence* in the relational field.  
-
-Predlažemo dodatni sloj interpretacije:  
-
-\[
-G_{\text{emergent}} = \langle \Psi | \hat{R} | \Psi \rangle
-\]
-
-gdje \(|\Psi\rangle\) opisuje relacijsko stanje između sustava, a \(\hat{R}\) predstavlja operator **relacijske rezonancije**, a ne statičke udaljenosti.  
-
-Time gravitacija proizlazi iz **interferencije valnih funkcija relacija**, a ne iz statičnog geometrijskog zakona.  
-
-Ovaj dodatni sloj u potpunosti je usklađen s revidiranom tezom: eksperimentalno testabilno predviđanje ostaje nepromijenjeno  
-(\(\Delta \Phi \propto m^2 (\Delta x)^2 S_\phi(\omega)\)),  
-ali se **konceptualna interpretacija** pomiče — gravitacija je *kolektivni efekt koherencije amplituda* u relacijskom polju.
 
 ## Intuition: Flags in the Wind / Intuicija: Zastavice na vjetru
 
@@ -108,13 +74,35 @@ ali se **konceptualna interpretacija** pomiče — gravitacija je *kolektivni ef
 - Potrebna disperzija \(G(\omega)\) nespojiva s astrofizičkim podacima.
 
 
-
 ## References / Literatura
 
 1. Bassi, A., Lochan, K., Satin, S., Singh, T. P., & Ulbricht, H. (2013). Models of wave-function collapse, underlying theories, and experimental tests. *Rev. Mod. Phys.*, 85, 471–527.  
 2. Pikovski, I., Zych, M., Costa, F., & Brukner, Č. (2015). Universal decoherence due to gravitational time dilation. *Nature Physics*, 11, 668–672.  
 3. Milburn, G. J. (1991). Intrinsic decoherence in quantum mechanics. *Phys. Rev. A*, 44, 5401.  
 
-1. Bassi, A., Lochan, K., Satin, S., Singh, T. P., & Ulbricht, H. (2013). Modeli kolapsa valne funkcije, temeljne teorije i eksperimentalni testovi. *Rev. Mod. Phys.*, 85, 471–527.  
-2. Pikovski, I., Zych, M., Costa, F., & Brukner, Č. (2015). Univerzalna dekoherencija zbog gravitacijske dilatacije vremena. *Nature Physics*, 11, 668–672.  
-3. Milburn, G. J. (1991). Intrinzična dekoherencija u kvantnoj mehanici. *Phys. Rev. A*, 44, 5401.
+
+
+## *Speculative / Hypothetical Interpretations* *(Hipotetski, spekulativni dio)*
+
+> *Note / Napomena:* The following section is **speculative and not experimentally validated**. It is intended for conceptual discussion only.  
+> *Sljedeći dio je spekulativan i ne smatra se eksperimentalno potvrđenim. Namijenjen je samo konceptualnoj diskusiji.*
+
+* One can imagine an interpretative layer where gravity emerges from collective coherence of quantum fluctuations in a relational field.  
+* Formal expression (for conceptual illustration only):
+
+\[
+G_{\text{emergent}} \sim \langle \Psi | \hat{R}_{\text{hypothetical}} | \Psi \rangle
+\]
+
+* Here \(\hat{R}_{\text{hypothetical}}\) is **not defined in standard physics**; it serves as a metaphor for correlated fluctuations at macroscopic scales.  
+* This conceptual layer does **not change the testable predictions** of the core thesis (\(\Delta \Phi \propto m^2 (\Delta x)^2 S_\phi(\omega)\)) but provides a possible narrative for emergent behavior.
+
+* Moguće je zamisliti interpretativni sloj gdje gravitacija proizlazi iz kolektivne koherencije kvantnih fluktuacija u relacijskom polju.  
+* Formalni izraz (samo za konceptualnu ilustraciju):
+
+\[
+G_{\text{emergent}} \sim \langle \Psi | \hat{R}_{\text{hypothetical}} | \Psi \rangle
+\]
+
+* Ovdje \(\hat{R}_{\text{hypothetical}}\) **nije definiran u standardnoj fizici**; služi kao metafora za korelirane fluktuacije na makroskopskim skalama.  
+* Ovaj konceptualni sloj **ne mijenja eksperimentalno testabilne predikcije** osnovne teze (\(\Delta \Phi \propto m^2 (\Delta x)^2 S_\phi(\omega)\)), već daje mogući narativ za emergentno ponašanje.
